@@ -1,2 +1,2 @@
 # Variant
-A different approach to some projects
+A different approach to some projects...
